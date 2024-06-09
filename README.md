@@ -1,5 +1,10 @@
 # 🌟 Fashion Landing Page 🌟
 
+
+
+https://github.com/josecondori-ai/Fashion-Landing-Page/assets/62406594/1b67fbe6-3c1f-4505-afe5-77646eba8ae9
+
+
 Bienvenido al repositorio de la Fashion Landing Page, un proyecto web diseñado para ofrecer una experiencia visual atractiva y moderna.
 
 ## 📖 Visión General
@@ -15,9 +20,9 @@ Esta página web de moda está diseñada para mostrar una colección de ropa de 
 
 ## 🎥 Demostración
 
-Puedes ver una demostración en vivo de la página [aquí](#) (incluye un enlace a la demostración en vivo si está disponible).
+Puedes ver una demostración en vivo de la página [aquí](https://josecondori-ai.github.io/Fashion-Landing-Page/).
 
-![Fashion Landing Page](img/demo.png)
+
 
 ## 🛠️ Tecnologías Utilizadas
 
